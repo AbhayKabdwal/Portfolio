@@ -1,0 +1,23 @@
+:root {
+  /* fonts */
+  --font-poppins: Poppins;
+  --font-roboto-slab: "Roboto Slab";
+  --font-lustria: Lustria;
+
+  /* font sizes */
+  --font-size-2xs: 18px;
+  --font-size-xs: 24px;
+  --font-size-sm: 32px;
+  --font-size-base: 36px;
+  --font-size-lg: 64px;
+  --font-size-xl: 256px;
+
+  /* Colors */
+  --color-2: #f8f7f9;
+  --color-1: #1f1f1f;
+  --color-gray-300: #0d1117;
+  --color-white: #fff;
+
+  /* Paddings */
+  --padding-md: 10px;
+}
